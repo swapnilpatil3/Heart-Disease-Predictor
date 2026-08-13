@@ -1,6 +1,6 @@
 #  Heart Disease Risk Predictor
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-predictor-dbwv9c5mxelzvduuq3xode.streamlit.app/)
+[![Streamlit App](https://heart-disease-predictor-swapnilpatil.streamlit.app/)
 
 An end-to-end Machine Learning web application designed to predict the risk of cardiovascular disease based on a patient's clinical and demographic data. 
 
