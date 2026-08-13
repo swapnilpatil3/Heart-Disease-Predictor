@@ -1,6 +1,6 @@
 #  Heart Disease Risk Predictor
 
-[![Streamlit App](https://heart-disease-predictor-swapnilpatil.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-predictor-swapnilpatil.streamlit.app/)
 
 An end-to-end Machine Learning web application designed to predict the risk of cardiovascular disease based on a patient's clinical and demographic data. 
 
@@ -8,7 +8,7 @@ An end-to-end Machine Learning web application designed to predict the risk of c
 Heart disease is a leading cause of mortality globally. This project leverages a **K-Nearest Neighbors (KNN)** classification model to provide a quick, real-time risk assessment. The model was trained on a comprehensive heart disease dataset and deployed via a responsive **Streamlit** user interface.
 
 ##  Live Demo
-**Test the live application here:** [Heart Disease Predictor](https://heart-disease-predictor-dbwv9c5mxelzvduuq3xode.streamlit.app/)
+**Test the live application here:** [Heart Disease Predictor](https://heart-disease-predictor-swapnilpatil.streamlit.app/)
 
 ##  Technology Stack
 * **Language:** Python
@@ -24,24 +24,24 @@ Heart disease is a leading cause of mortality globally. This project leverages a
 * `*.pkl`: Serialized joblib files containing the trained KNN model, data scaler, and expected column structures.
 * `requirements.txt`: Dependencies required for deployment.
 
-##  How to Run Locally
+## How to Run Locally
 To run this project on your local machine, follow these steps:
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/swapnilpatil3/Heart-Disease-Predictor.git
-   cd Heart-Disease-Predictor
+```bash
+git clone https://github.com/swapnilpatil3/Heart-Disease-Predictor.git
+cd Heart-Disease-Predictor
+```
 
-   
 2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
+
 3. **Run the Streamlit app**
 ```bash
 python -m streamlit run app.py
 ```
+
 ## 👨‍💻 Author
 **Swapnil Patil**
-
-
