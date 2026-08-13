@@ -32,20 +32,16 @@ To run this project on your local machine, follow these steps:
    git clone https://github.com/swapnilpatil3/Heart-Disease-Predictor.git
    cd Heart-Disease-Predictor
 
-Install dependencies
-bash
-
-
+   
+2. **Install dependencies**
+```bash
 pip install -r requirements.txt
-Run the Streamlit app
-bash
-
-
+```
+3. **Run the Streamlit app**
+```bash
 python -m streamlit run app.py
-👨‍💻 Author
-Swapnil Patil
+```
+## 👨‍💻 Author
+**Swapnil Patil**
 
 
-
-4. Once you paste it, click the green **"Commit changes..."** button at the top right of the screen.
-That is the absolute foolproof way to get it perfectly updated on your GitHub! Let me know when you've pasted it!
